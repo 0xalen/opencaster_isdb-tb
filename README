@@ -1,3 +1,13 @@
+== Fork notes ==
+
+This is a fork of Avalpa's OpenCaster. In accordance with GPLv2, it's also distributed under the same lincese.
+In order to make it compatible with the standard ISDB-Tb for Digital Television, there have been some additions based on the patch created by LIFIA (Laboratorio de Investigación y Formación en Informática Avanzada), a research lab from the UNLP (National University of La Plata) in La Plata, Argentina.
+This fork is used in the context of a research project in the UNPA (National University of the Austral Patagonia), Rio gallegos, Argentina.
+The modifications allow the use of opencaster (version 3.2.2) to generate Transport Streams with interactive apps compatible with the Brazilian Digital Television System (ISDB-Tb).
+
+
+== Avalpa's README ==
+
 OpenCaster 
 
 ==Contact==
